@@ -1,4 +1,4 @@
-# astrBot_plugin_aiocqhttp
+# astrbot_plugin_aiocqhttp
 
 让 AstrBot 支持除 gocq-http 以外的协议实现，如 Lagrange、Shamrock 等
 
